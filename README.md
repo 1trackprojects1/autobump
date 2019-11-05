@@ -1,2 +1,2 @@
 # autobump
-A simple auto bumper disboard via discord.
+A simple auto bumper for disboard using discord.
